@@ -1,5 +1,5 @@
 {
-  "name": "AP Employee Portal",
+  "name": "Absher",
   "short_name": "AP Portal",
   "start_url": "./index.html",
   "display": "standalone",
@@ -7,7 +7,7 @@
   "theme_color": "#08784e",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "images.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
